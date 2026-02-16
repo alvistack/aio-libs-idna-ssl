@@ -1,0 +1,4 @@
+python3-idna-ssl: copyright-without-copyright-notice
+python3-idna-ssl: initial-upload-closes-no-bugs
+python3-idna-ssl: no-manual-page
+python3-idna-ssl: zero-byte-file-in-doc-directory

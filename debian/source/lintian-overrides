@@ -1,0 +1,4 @@
+python-idna-ssl source: file-without-copyright-information
+python-idna-ssl source: no-debian-changes
+python-idna-ssl source: source-contains-prebuilt-windows-binary
+python-idna-ssl source: source-package-encodes-python-version
